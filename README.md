@@ -1,4 +1,3 @@
 # About-Me-HTML
-# About-Me-HTML
-# About-Me-HTML
-#
+# projects.html
+# index.html update
