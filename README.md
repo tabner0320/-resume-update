@@ -2,3 +2,4 @@
 # projects.html
 # index.html update
 # Current resume (updated)
+# Create styles.css
